@@ -8,6 +8,7 @@ body{
         /*
         #29344B     blue
         #E99400     orange/yellow
+        #e9e9e9     white/gray
         */
 .bg-footer{
     background-color:#e9e9e9;
@@ -16,11 +17,15 @@ body{
 header{
     background: #e9e9e9;
 }
+.about-section{
+    background: #e9e9e9;
+}
 /*----------------- Header -----------------*/
 header{
     position: sticky;
     top: 0;
     left:0;
+    z-index: 1; /* To put the sticky nav ontop*/
     padding: 0;
     width:100%;
     box-sizing:border-box; 
@@ -34,10 +39,46 @@ header .logo img{
     height:100px;
     border-radius: 100px;
     float:right;
-    
 }
+/*----------------- Section 1 Landingpage -----------------*/
 
-
+.landing-page{
+    width: 100%;
+    min-height: 500px;
+    background: url(images/lightroom\ \(22\).jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center bottom;
+    background-attachment: fixed;       /* Makes secktion parallax */
+    filter: blur(4px);
+        -webkit-filter: blur(4px);
+}
+.landing-page-header{
+    width:100%;
+    position:absolute;
+    top:25%;
+    left:50%;
+    transform: translate(-50%, -50%);
+}
+.landing-page-header h1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.landing-page-header h1, h4{
+    color:#29344B;
+    letter-spacing: 1px;
+    text-align: center;
+        transition: font-size 1s ease-in-out;
+        -webkit-transition: font-size 1s ease-in-out;
+        -moz-transition: font-size 1s ease-in-out;
+        -o-transition: font-size 1s ease-in-out;
+        
+}
+/*----------------- Section 2 About -----------------*/
+.about-section{
+    min-height: 500px;
+}
 /*----------------- Footer -----------------*/
 .footer-content{
     text-align: center;
@@ -48,12 +89,11 @@ header .logo img{
 }
 .footer-logo-link img{
     position: absolute;
-    top:-10px;
-    left:10px;
+    top:-20px;
+    left:20px;
     width:50px;
     height:50px;
     border-radius:50%;
-    
 }
 .footer-item-top{
     margin-top:10px;
@@ -64,7 +104,7 @@ header .logo img{
     width:33px;
     height: 33px;
     border-radius: 33px;
-    background-color:#E99400 ;
+    background-color:rgb(233, 148, 0, .5); /* Same color just faded */
     color:#29344B ;
     padding:6px 0 0 1px;
     font-size:20px;
@@ -74,13 +114,43 @@ header .logo img{
 .company-links i:hover{
     background-color:#29344B ;
     color: #E99400 ;
+    
 }
 .table-hd,
 .table-data{
     display:inline-block;
-    margin-left:15px;
+    margin-left:10px;
+}
+.table-data{
+    padding-right: 10px;
 }
 .table-container .table-hd{
-    width:30%;
+    width:70%;
     text-align:left;
+}
+
+/*----------------- Media Queries -----------------*/
+
+/*--- Section 1 Shrink h1, h4 ---*/
+@media (max-width: 500px){
+    .landing-page-header{
+        position:absolute;
+        top:30%;
+        left:50%;
+        transform: translate(-50%, -50%);
+    }
+    .landing-page-header h1{
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .landing-page-header h4{
+        font-size: 13px;
+    }
+
+    /* Removes transitions for the header in smaller screens*/ 
+    .landing-page-header h1, h4{
+         transition: none;    
+    }
+    
 }
