@@ -2,12 +2,20 @@
 student milestone project, 1 of ... 
 
 
-### UX
+## UX 
 
-### Tecnologies
+## Tecnologies
+  - HTML5
+  - CSS3
+  - Bootstrap
+  - Git
+  - Github
+  - VS Code
+  - Photoshop
+  - Lightroom 
+  
+## Testing 
 
-### Testing 
-
-### Credit
-#### Pictures
-#### Code inspiration 
+## Credit
+### Pictures
+### Code inspiration 
