@@ -27,6 +27,10 @@ although its ordered from a real person and company and planned to fulfill their
   - Photoshop
   - Lightroom 
   
+## Features
+
+### Future features
+
 ## Testing 
 
 ## Credit
