@@ -1,6 +1,9 @@
 # milestone-1-student
-student milestone project, 1 of ... 
 
+This project is only built for my student assignment, 
+although its ordered from a real person and company and planned to fulfill their requirement.
+
+## Deployment
 
 ## UX 
 
