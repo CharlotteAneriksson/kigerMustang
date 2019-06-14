@@ -6,6 +6,16 @@ although its ordered from a real person and company and planned to fulfill their
 ## Deployment
 
 ## UX 
+  ####Strategy
+  
+  ####Scope
+  
+  ####Structure
+  
+  ####Sceleton
+  
+  ####Surface
+
 
 ## Tecnologies
   - HTML5
@@ -20,5 +30,13 @@ although its ordered from a real person and company and planned to fulfill their
 ## Testing 
 
 ## Credit
+### Text 
+All text are taken from the original up and running website, owned by Team Kiger Of Frejes. 
+Charlotte did the translation and choose the block of text for this deployment.
+
 ### Pictures
+Owner of all pic used is Jessica Furman Monasdotter who gave me permission for this project and the use of her pictures.
+Photoshop was used to shrink them to optimize the website. 
+Lightroom was used to put a general filter on all pictures for better UX.
+
 ### Code inspiration 
