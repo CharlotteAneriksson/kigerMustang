@@ -162,6 +162,24 @@ header .logo img{
 .section-8 h3{
     margin:15px 0 20px 0;
 }
+.section-8 div figure a{
+    text-decoration: none;
+}
+figure img {
+    transition: all 1s ease-in-out;
+        -moz-transition: all 1s ease-in-out;
+        -webkit-transition: all 1s ease-in-out;
+    filter: opacity(80%);
+        -webkit-filter: opacity(80%);
+  }
+  figure:hover img {
+    filter: opacity(100%);
+        -webkit-filter: opacity(100%);
+    transform: scale(1.1);
+        -moz-transform: scale(1.1);
+        -webkit-transform: scale(1.1);
+  }
+
 /*----------------- Section 9 parallax 5 -----------------*/
 .section-9{
     width: 100%;
@@ -256,5 +274,16 @@ header .logo img{
     .landing-page-header h3{
          transition: none;    
     }
-    
+}
+@media (max-width: 1000px){
+    figure img {
+        transition: all 1s ease-in-out;
+        filter: opacity(100%);
+            -webkit-filter: opacity(100%);
+      }
+      figure:hover img {
+        transform: scale(1);
+            -moz-transform: scale(1);
+            -webkit-transform: scale(1);
+      }
 }
