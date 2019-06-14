@@ -6,15 +6,15 @@ although its ordered from a real person and company and planned to fulfill their
 ## Deployment
 
 ## UX 
-  ####Strategy
+  #### Strategy
   
-  ####Scope
+  #### Scope
   
-  ####Structure
+  #### Structure
   
-  ####Sceleton
+  #### Sceleton
   
-  ####Surface
+  #### Surface
 
 
 ## Tecnologies
