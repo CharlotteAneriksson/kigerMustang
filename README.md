@@ -1,7 +1,7 @@
 # milestone-1-student
 
 This project is only built for my student assignment, 
-although its ordered from a real person and company and planned to fulfill their requirement.
+although its ordered from a real person and company, also planned to fulfill their requirement.
 
 ## Deployment
 
