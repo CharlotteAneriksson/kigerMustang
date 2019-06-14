@@ -35,7 +35,7 @@ although its ordered from a real person and company and planned to fulfill their
 
 ## Credit
 ### Text 
-All text are taken from the original up and running website, owned by Team Kiger Of Frejes. 
+The text are taken from the original up and running website, owned by Team Kiger Of Frejes. If not it is mentioned on the page.
 Charlotte did the translation and choose the block of text for this deployment.
 
 ### Pictures
