@@ -342,9 +342,14 @@ button[type="submit"]:hover{
     }
 }
 @media (max-width: 1000px){
-    .landing-page{
-    background-attachment:scroll;
-    }
+    .landing-page:before{
+    position:fixed;
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+    background:url('images/sec-1pic-1.jpg');
+}
     .center-content,
     .center-content p{
         color:#29344B;
