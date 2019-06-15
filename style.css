@@ -342,6 +342,9 @@ button[type="submit"]:hover{
     }
 }
 @media (max-width: 1000px){
+    .landing-page{
+    background-attachment:scroll;
+    }
     .center-content,
     .center-content p{
         color:#29344B;
