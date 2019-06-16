@@ -4,7 +4,7 @@ This project is only built for my student assignment,
 although its ordered from a real person and company, also planned to fulfill their requirement.
 
 ## Deployment
-
+Deployment using git and github hosting, see link below.<br/>
    https://charlotteaneriksson.github.io/milestone-1-student/
 
 ## UX 
@@ -87,6 +87,7 @@ Charlotte did the translation and choose the block of text for this deployment.
 Owner of all pic used is Jessica Furman Monasdotter who gave me permission for this project and the use of her pictures.
 Photoshop was used to shrink them to optimize the website. 
 Lightroom was used to put a general filter on all pictures for better UX.
+Alt attribute in img tag for screen readers.
 
 ### Code inspiration 
 developer.mozilla.org - bug fixe ideas
