@@ -37,7 +37,7 @@ although its ordered from a real person and company, also planned to fulfill the
 ## Tecnologies
   - HTML5
   - CSS3
-  - Bootstrap
+  - Bootstrap (v4.3.1.) 
   - Git
   - Github
   - VS Code IDE
