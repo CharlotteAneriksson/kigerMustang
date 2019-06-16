@@ -15,7 +15,8 @@ although its ordered from a real person and company, also planned to fulfill the
   
   #### Scope
     Gallery, pictures opens in new site when clicked. Scroll-site but also a menu to get to the different sections.
-    Social media buttons
+    Social media buttons.
+    Collapsed nav for MVP.
   
   #### Structure
     History and facts go together, about the owner and a great picture, for sale and how to buy go together, 
@@ -41,10 +42,14 @@ although its ordered from a real person and company, also planned to fulfill the
   - Lightroom 
   
 ## Features
-
+  - For sale block
+  - Gallery
+  - Collapsed nav
 ### Future features
-
+  - Fully working contact form, connected to email.
+  - Video section
 ## Testing 
+
 ### Bugs & Solutions
   1. Parallax with attachment:fixed; doesnt work on phone.
       - Solution: media queries from 1000px (covers ipad and smaller) attachment:scroll;
@@ -56,7 +61,9 @@ although its ordered from a real person and company, also planned to fulfill the
       - Solution: fixed with overflow-x: hidden;
   5. The logo-links didnt work on mobile, nothing happend while clicking on them.
        - Solution: Putter id="destination" on other element then header.
+       
 ## Credit
+
 ### Text 
 The text are taken from the original up and running website, owned by Team Kiger Of Frejes. If not it is mentioned on the page.
 Charlotte did the translation and choose the block of text for this deployment.
@@ -67,3 +74,9 @@ Photoshop was used to shrink them to optimize the website.
 Lightroom was used to put a general filter on all pictures for better UX.
 
 ### Code inspiration 
+developer.mozilla.org - bug fixe ideas
+w3school.com - how to
+web-design-weekly.com - inspirations and mobile viewport info 
+bootstrap documentaions - information, gallery ideas, nav ideas
+css-tricks.com - bug fixer ideas
+stackoverflow.com - bug fixer ideas
