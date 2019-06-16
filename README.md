@@ -4,7 +4,8 @@ This project is only built for my student assignment,
 although its ordered from a real person and company, also planned to fulfill their requirement.
 
 ## Deployment
-Deployment using git and github hosting, see link below.<br/>
+Deployment using git and github hosting, see link below.
+Git is used to push files up to github where i store the code for you to see. Wanna se the source code you just click on the file name index.html or style.css<br/>
    https://charlotteaneriksson.github.io/milestone-1-student/
 
 ## UX 
