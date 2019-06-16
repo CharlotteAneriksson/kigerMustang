@@ -34,7 +34,17 @@ although its ordered from a real person and company, also planned to fulfill the
 ### Future features
 
 ## Testing 
-
+### Bugs & Solutions
+  1. Parallax with attachment:fixed; doesnt work on phone.
+      - Solution: media queries from 1000px (covers ipad and smaller) attachment:scroll;
+  2. Shrink pictures for optimizing loadingtime.
+      - Solution: Shrink from 5200px to 1000px
+  3. Sticky nav doesnt follow/work on mobile.
+      - Solution: Used fixed instead;
+  4. Horizontoll scroll bug
+      - Solution: fixed with overflow-x: hidden;
+  5. The logo-links didnt work on mobile, nothing happend while clicking on them.
+       - Solution: Putter id="destination" on other element then header.
 ## Credit
 ### Text 
 The text are taken from the original up and running website, owned by Team Kiger Of Frejes. If not it is mentioned on the page.
