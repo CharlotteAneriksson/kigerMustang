@@ -8,30 +8,30 @@ although its ordered from a real person and company, also planned to fulfill the
    https://charlotteaneriksson.github.io/milestone-1-student/
 
 ## UX 
-  Strategy
+  Strategy:<br/>
     This project is made for horselovers, mainly horse buyers but also just them who have an interest. 
     Goals is to sell horses and get customer for upcoming breeding season.
     Want to advertice the breed and tell about the Team Kigers company.
   
-  Scope
+  Scope:<br/>
     Gallery, pictures opens in new site when clicked. 
     Scroll-site but also a menu to get to the different sections.
     Social media buttons.
     Collapsed nav for MVP.
   
-  Structure
+  Structure:<br/>
     History and facts go together, about the owner and a great picture, for sale and how to buy go together, 
     socail media and other cooperationlinks goes together.
     Grid is used the same on about, history and also for sale.
     
-  Sceleton
+  Sceleton:<br/>
     Great attractive looking pictures are shown in parallax effect on desktop, 
     on smaller devices its just a fixed background that you scroll.
     Who Jessica is, then direclty to the selling part for priority, 
     gallery in the end so that you've seen all info before. 
     Gallery just makes you wanna buy even more strongly.
     
-  Surface
+  Surface:<br/>
     Colors goes in blue, yellow, white and beige. 
     Horses are gray and beige and the buttons and links follows the logo color.
     Same hover and link color, consistant all over..
