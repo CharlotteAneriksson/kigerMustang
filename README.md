@@ -83,6 +83,7 @@ Lightroom was used to put a general filter on all pictures for better UX.
 ### Code inspiration 
 developer.mozilla.org - bug fixe ideas
 w3school.com - how to
+getbootstrap.com/docs/4.3/components/navbar/
 web-design-weekly.com - inspirations and mobile viewport info 
 bootstrap documentaions - information, gallery ideas, nav ideas
 css-tricks.com - bug fixer ideas
