@@ -18,12 +18,15 @@ although its ordered from a real person and company, also planned to fulfill the
     Social media buttons
   
   #### Structure
-    History and facts go together, about the owner and a great picture, for sale and how to buy go together, socail media and other cooperationlinks goes together.
+    History and facts go together, about the owner and a great picture, for sale and how to buy go together, 
+    socail media and other cooperationlinks goes together.
     Grid is used the same on about, history and also for sale.
     
   #### Sceleton
-    Great attractive looking pictures are shown in parallax effect on desktop, on smaller devices its just a fixed background that you scroll.
-    Who Jessica is, then direclty to the selling part for priority, gallery in the end so that you've seen all info before. Gallry just makes you wanna buy even more strongly.
+    Great attractive looking pictures are shown in parallax effect on desktop, 
+    on smaller devices its just a fixed background that you scroll.
+    Who Jessica is, then direclty to the selling part for priority, gallery in the end so that you've seen all info before. 
+    Gallery just makes you wanna buy even more strongly.
   #### Surface
     Colors goes in blue, yellow, white and beige. Horses are gray and beige and the buttons and links follows the logo color. 
 
