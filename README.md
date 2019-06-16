@@ -60,13 +60,14 @@ although its ordered from a real person and company, also planned to fulfill the
   1. Parallax with attachment:fixed; doesnt work on phone.
       - Solution: media queries from 1000px (covers ipad and smaller) attachment:scroll;
   2. Shrink pictures for optimizing loadingtime.
-      - Solution: Shrink from 5200px to 1000px
+      - Solution: Shrink from 5200px to 1000px, also compressing them with tinypng.com 
   3. Sticky nav doesnt follow/work on mobile.
       - Solution: Used fixed instead;
   4. Horizontoll scroll bug
       - Solution: fixed with overflow-x: hidden;
   5. The logo-links didnt work on mobile, nothing happend while clicking on them.
        - Solution: Putter id="destination" on other element then header.
+  6.
        
 ## Credit
 
@@ -86,3 +87,4 @@ web-design-weekly.com - inspirations and mobile viewport info
 bootstrap documentaions - information, gallery ideas, nav ideas
 css-tricks.com - bug fixer ideas
 stackoverflow.com - bug fixer ideas
+
