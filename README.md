@@ -5,7 +5,7 @@ although its ordered from a real person and company, also planned to fulfill the
 
 ## Deployment
 
-  https://charlotteaneriksson.github.io/milestone-1-student/
+  comming soon
 
 ## UX 
   #### Strategy
