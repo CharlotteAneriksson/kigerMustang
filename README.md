@@ -5,7 +5,7 @@ although its ordered from a real person and company, also planned to fulfill the
 
 ## Deployment
 
-  comming soon
+   https://charlotteaneriksson.github.io/milestone-1-student/
 
 ## UX 
   ### Strategy
@@ -70,7 +70,8 @@ although its ordered from a real person and company, also planned to fulfill the
       - Solution: fixed with overflow-x: hidden;
   5. The logo-links didnt work on mobile, nothing happend while clicking on them.
        - Solution: Putter id="destination" on other element then header.
-  6.
+  6. Some effects didnt work browser wide.
+       - Solution: Tried adding autoprefixers for all browsers, some helped.
        
 ## Credit
 
