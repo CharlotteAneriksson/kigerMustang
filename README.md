@@ -30,9 +30,11 @@ although its ordered from a real person and company, also planned to fulfill the
     Who Jessica is, then direclty to the selling part for priority, 
     gallery in the end so that you've seen all info before. 
     Gallery just makes you wanna buy even more strongly.
+    
   ### Surface
     Colors goes in blue, yellow, white and beige. 
-    Horses are gray and beige and the buttons and links follows the logo color. 
+    Horses are gray and beige and the buttons and links follows the logo color.
+    Same hover and link color, consistant all over..
 
 ## Tecnologies
   - HTML5
@@ -48,6 +50,7 @@ although its ordered from a real person and company, also planned to fulfill the
   - For sale block
   - Gallery
   - Collapsed nav
+  - Social media icons in collapsed nav
   
 ### Future features
   - Fully working contact form, connected to email.
