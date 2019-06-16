@@ -90,6 +90,7 @@ Owner of all pic used is Jessica Furman Monasdotter who gave me permission for t
 Photoshop was used to shrink them to optimize the website. 
 Lightroom was used to put a general filter on all pictures for better UX.
 Alt attribute in img tag for screen readers.
+Namned pictures after use direction
 
 ### Code inspiration 
 developer.mozilla.org - bug fixe ideas
