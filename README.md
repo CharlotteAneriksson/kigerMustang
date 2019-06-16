@@ -61,6 +61,8 @@ although its ordered from a real person and company, also planned to fulfill the
    Tested in Chrome, Chrome Devtools, Firefox, Microsoft Edge, Explorer (not much effects here but looks nice), Huawei and also live deployed in iphone.
    Looked real great. 
 Glad I deployed in on github to see on a real mobal device cause Chrome Devtools did not really look the same acually, fixed a few bugs this way.
+<br/>
+Activated screen reader for Microsoft and tried, was working good.
 ### Bugs & Solutions
   1. Parallax with attachment:fixed; doesnt work on phone.
       - Solution: media queries from 1000px (covers ipad and smaller) attachment:scroll;
