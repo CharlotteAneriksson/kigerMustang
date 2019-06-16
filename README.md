@@ -14,7 +14,8 @@ although its ordered from a real person and company, also planned to fulfill the
     Want to advertice the breed and tell about the Team Kigers company.
   
   ### Scope
-    Gallery, pictures opens in new site when clicked. Scroll-site but also a menu to get to the different sections.
+    Gallery, pictures opens in new site when clicked. 
+    Scroll-site but also a menu to get to the different sections.
     Social media buttons.
     Collapsed nav for MVP.
   
@@ -26,10 +27,12 @@ although its ordered from a real person and company, also planned to fulfill the
   ### Sceleton
     Great attractive looking pictures are shown in parallax effect on desktop, 
     on smaller devices its just a fixed background that you scroll.
-    Who Jessica is, then direclty to the selling part for priority, gallery in the end so that you've seen all info before. 
+    Who Jessica is, then direclty to the selling part for priority, 
+    gallery in the end so that you've seen all info before. 
     Gallery just makes you wanna buy even more strongly.
   ### Surface
-    Colors goes in blue, yellow, white and beige. Horses are gray and beige and the buttons and links follows the logo color. 
+    Colors goes in blue, yellow, white and beige. 
+    Horses are gray and beige and the buttons and links follows the logo color. 
 
 ## Tecnologies
   - HTML5
@@ -45,9 +48,12 @@ although its ordered from a real person and company, also planned to fulfill the
   - For sale block
   - Gallery
   - Collapsed nav
+  
 ### Future features
   - Fully working contact form, connected to email.
   - Video section
+  - Possibility to choose SV language on a button similar to collapsed manu button 
+  
 ## Testing 
 
 ### Bugs & Solutions
