@@ -27,6 +27,7 @@ header{
 /*----------------- Header -----------------*/
 header{
     position: sticky;
+        -webkit-sticky;
     top: 0;
     left:0;
     z-index: 1; /* To put the sticky nav first, infront*/
