@@ -63,6 +63,7 @@ Deployment using git and github hosting, see link below.<br/>
 Glad I deployed in on github to see on a real mobal device cause Chrome Devtools did not really look the same acually, fixed a few bugs this way.
 <br/>
 Activated screen reader for Microsoft and tried, was working good.
+Tested all links on all devices, works great.
 ### Bugs & Solutions
   1. Parallax with attachment:fixed; doesnt work on phone.
       - Solution: media queries from 1000px (covers ipad and smaller) attachment:scroll;
