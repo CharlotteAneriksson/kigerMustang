@@ -52,6 +52,7 @@ Git is used to push files up to github where i store the code for you to see. Wa
   - Gallery
   - Collapsed nav
   - Social media icons in collapsed nav
+  - Links opens in new tab
   
 ### Future features
   - Fully working contact form, connected to email.
@@ -65,6 +66,7 @@ Glad I deployed in on github to see on a real mobal device cause Chrome Devtools
 <br/>
 Activated screen reader for Microsoft and tried, was working good.
 Tested all links on all devices, works great.
+
 ### Bugs & Solutions
   1. Parallax with attachment:fixed; doesnt work on phone.
       - Solution: media queries from 1000px (covers ipad and smaller) attachment:scroll;
