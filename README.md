@@ -104,5 +104,5 @@ web-design-weekly.com - inspirations and mobile viewport info
 bootstrap documentaions - information, gallery ideas, nav ideas
 css-tricks.com - bug fixer ideas
 stackoverflow.com - bug fixer ideas
-https://www.youtube.com/channel/UC9500QCai-WdIiQGrbJ-i_A - bugfixer menu collaps
+https://www.youtube.com/watch?v=5y6NFy5M9z8 - bugfixer menu collaps
 
