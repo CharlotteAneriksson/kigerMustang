@@ -80,6 +80,8 @@ Tested all links on all devices, works great.
        - Solution: Put id="destination" on other element then header.
   6. Some effects didnt work browser wide.
        - Solution: Tried adding autoprefixers for all browsers, some helped.
+  7. Collapsed menu doesnt go away when clicked on a link, kind of ruining the UX when chosen a link.
+       - Solution: https://www.youtube.com/channel/UC9500QCai-WdIiQGrbJ-i_A hade a great codeblock i could use to solve the issue.
        
 ## Credit
 
@@ -102,4 +104,5 @@ web-design-weekly.com - inspirations and mobile viewport info
 bootstrap documentaions - information, gallery ideas, nav ideas
 css-tricks.com - bug fixer ideas
 stackoverflow.com - bug fixer ideas
+https://www.youtube.com/channel/UC9500QCai-WdIiQGrbJ-i_A - bugfixer menu collaps
 
