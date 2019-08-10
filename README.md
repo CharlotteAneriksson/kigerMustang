@@ -1,4 +1,4 @@
-# milestone-1-student
+# milestoneProject for CodeInstitute - project 1
 
 This project is only built for my student assignment, 
 although its ordered from a real person and company, also planned to fulfill their requirement.
